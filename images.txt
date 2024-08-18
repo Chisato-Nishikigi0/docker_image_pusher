@@ -2,5 +2,6 @@
 jeessy/ddns-go:latest
 dreamacro/clash
 haishanh/yacd
+amtoaer/bili-sync-rs:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
